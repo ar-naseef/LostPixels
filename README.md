@@ -1,2 +1,2 @@
 # LostPixels
-An html pixels
+An html/js game
